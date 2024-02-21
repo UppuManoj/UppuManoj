@@ -11,8 +11,10 @@
    AI, web development, and software development.
    
 📫 How to reach me
+
 G-Mail : manojkumaruppu1999@gmail.com
 
+Linkedin : Uppu Manoj kumar
 
 <!---
 UppuManoj/UppuManoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
